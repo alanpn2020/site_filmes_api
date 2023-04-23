@@ -1,3 +1,34 @@
+
+Site de Filmes utilizando API de filmes e utilizando a linguagem React. 
+
+Esse projeto foi criado através do curso Projeto Completo NodeJS, React, React Native, TypeScript no site da Udemy, o link do curso é esse https://www.udemy.com/course/dev-fullstack/ . 
+Ao terminar esse projeto, eu realizei algumas melhorias. __A imagem abaixo é o projeto ensinado através do curso sem alterações__.
+
+![Projeto Final do Curso React](https://github.com/alanpn2020/site_filmes_api/blob/main/image_github/home_antes.png)
+
+__Agora a minhas melhorias foram essas__
+
+Realizado modificações visuais na página inicial
+![Minhas mudanças realizada](https://github.com/alanpn2020/site_filmes_api/blob/main/image_github/home.png)
+
+Colocado categorias
+![Minhas mudanças realizada](https://github.com/alanpn2020/site_filmes_api/blob/main/image_github/categoria.png)
+
+Favoritos
+![Minhas mudanças realizada](https://github.com/alanpn2020/site_filmes_api/blob/main/image_github/favoritos.png)
+
+Salvar Filmes em Cache
+![Minhas mudanças realizada](https://github.com/alanpn2020/site_filmes_api/blob/main/image_github/save.png)
+
+![Minhas mudanças realizada](https://github.com/alanpn2020/site_filmes_api/blob/main/image_github/toast_save.png)
+
+Adicionado também numeração de navegação de página
+![Minhas mudanças realizada](https://github.com/alanpn2020/site_filmes_api/blob/main/image_github/navegation.png)
+
+__Para assistir o projeto__ clique aqui https://www.youtube.com/watch?v=W7uz15XoDMs
+
+_Eu poderia fazer mais melhorias nesse projeto, mas para aprofundar ainda mais meus conhecimento, estarei iniciando outro projeto_
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
